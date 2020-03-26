@@ -34,7 +34,6 @@ const Footer = class extends React.Component {
                         Contact
                       </Link>
                     </li>
-
                   </ul>
                 </section>
               </div>
