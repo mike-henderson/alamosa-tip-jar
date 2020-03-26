@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Alamosa Tip Jar',
     description:
-      'This website is a way to support service employees of local and independent restaurants who have had operations severely changed due to state and county mandates.',
+      'This website is a way to support service employees of local and independent restaurants who have had operations severely changed due to state mandates.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
