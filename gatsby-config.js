@@ -29,12 +29,6 @@ module.exports = {
         name: 'images',
       },
     },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "UA-161936329-1",
-      },
-    },
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     {
