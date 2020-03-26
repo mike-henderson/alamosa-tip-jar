@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Alamosa Tip Jar',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'This website is a way to support service employees of local and independent restaurants who have had operations severely changed due to state and county mandates.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

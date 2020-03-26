@@ -1,14 +1,14 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Alamosa Tip Jar
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Alamosa Tip Jar
+subheading: Support local businesses during COVID-19
 mainpitch:
-  title: Why Kaldi
+  title: Alamosa Tip Jar
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
+    shouldn't just taste good, it should do good too. a changesWe source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
 description: >-
