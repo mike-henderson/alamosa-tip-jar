@@ -5,12 +5,6 @@ module.exports = {
       'This website is a way to support service employees of local and independent restaurants who have had operations severely changed due to state mandates.',
   },
   plugins: [
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "UA-161936329-1",
-      },
-    },
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
