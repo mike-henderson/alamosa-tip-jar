@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Alamosa Tip Jar
 image: /img/home-jumbotron.jpg
-heading: Alamosa Tip Jar
+heading: Buisness Listing
 subheading: Support local businesses during COVID-19
 mainpitch:
   title: Alamosa Tip Jar
