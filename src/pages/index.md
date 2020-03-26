@@ -7,15 +7,9 @@ subheading: Support local businesses during COVID-19
 mainpitch:
   title: Alamosa Tip Jar
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. a changesWe source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    This website is a way to support service employees of local and independent restaurants who have had operations severely changed due to state mandates. You can now “tip” into a virtual tip jar! All donations flow through directly to laid off service sector employees.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  You can choose to tip directly into a restaurant “tip jar” OR tip into a general Alamosa “tip jar”
 intro:
   blurbs:
     - image: /img/coffee.png
